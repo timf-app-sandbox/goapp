@@ -1,7 +1,10 @@
 // First Go program
 package main
 
-import "fmt"
+import (
+	"fmt"
+        "crypo"
+)
 
 // Main function
 func main() {
